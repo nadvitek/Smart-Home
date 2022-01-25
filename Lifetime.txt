@@ -1,0 +1,95 @@
+EVERYDAY ACTIONS:
+
+PEOPLE:
+Children and Parents wake up at 6:30 (8:30)
+Grandparents wake up at 8:00 everyday
+When the people wake up, they use the Toilett and they go eat some breakfast for 30 minutes
+When they eat, they use Oven or Microwave and after they are finished, they fill Dishwasher with some random number of dishes
+Monday to Friday the main family leaves the house at 7:00 and they go to school/work
+The Grandparents do some free time things in the house
+When the people are in the house, they must eat 3 times a day and there is a chance they will use the toilett
+When they have nothing to do, they uses free time by choosing some of the following points:
+Ride Bike
+-when the person rides a bike, he leaves the house for an hour
+-when they come back, they fill the washing machine with some sweaty clothes
+-it has to be sun outside
+-lasts 4 to 7 hours
+Go Skiing
+-same as riding a bike
+-lasts 3 to 5 hours
+Watch TV
+-A person goes to the living room and watches TV
+-lasts 1 hour
+Go to gym
+-lasts 1 hour
+-when they return, they fill the washing machine
+Reads book
+-A person just reads a book
+-lasts 1 hour
+Solve events
+-A person picks all the events that are made for them
+-He solves one by one until they are all done
+When it's 22:00, people go to sleep, if they are not solving events and before that, they fill the wasching machine and use Toilett
+
+PETS:
+Dogs and cats go sometimes in some random room and when they enter the room, they make it more dirty
+Fish make dirty only their aquarium
+
+APPLIANCES:
+All appliances have a chance to get broken at any moment, the chance getting bigger with their age
+-BLINDS
+-Blinds automaticly pull up at 6:30 AM and 8:30 AM on the weekends and down at 10 PM
+-DISHWASHER
+-When full, creates an event to be turned on
+-DUST SENSORS
+-Check how dirty room is, if a lot tell vacuum to clean it
+-FISH TANK FILTER
+-Automaticly cleans the fish tank every week
+-FRIDGE
+-When getting empty, sends signal to buy food
+-HEATING
+-Is on whenever there is a person in the room, otherwise turns off automaticly
+-HUB
+-Plays music when turned on
+-LAWNMOWER
+-Mows the lawn automaticly every week, takes time according to garden area
+-LIGHT SENSORS
+-When a person enters room, turns lights on, when last person leaves turnes them off
+-LIGHTS
+-Are manipulated by light sensors, but off if there is light outside
+-LOCKS
+-Automaticly lock the house at night or when nobody is home
+-MICROWAVE
+-On when somebody is using it
+-OVEN
+-On when somebody is using it
+-TELEVISION
+-On when somebody is using it
+-TOILETTE
+-Automaticly flushes when somebody uses it
+-VACUUM
+-Cleans dirty rooms on the floor at which it is
+-WASHING MACHINE
+-When full sends signal to be turned on
+
+RETURN TIMES:
+-MONDAY:
+Children - random time between 13:00 and 17:00
+Mom - 17:00
+Dad - 18:00
+-TUESDAY:
+Children - random time between 13:00 and 17:00
+Mom - 15:00
+Dad - 17:00
+-WEDNESDAY:
+Children - random time between 13:00 and 17:00
+Mom - 17:00
+Dad - 18:00
+-THURSDAY
+Children - random time between 13:00 and 17:00
+Mom - 15:00
+Dad - 17:00
+-FRIDAY:
+Children - random time between 13:00 and 17:00
+Mom - 15:00
+Dad - 17:00

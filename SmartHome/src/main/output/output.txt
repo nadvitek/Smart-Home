@@ -1,0 +1,2711 @@
+----CONFIGURATION OF THE HOUSE----
+House has garden of area: 450
+House has 2 floors
+Floor number 1 has:
+Living room
+Kitchen
+Bedroom
+Bathroom
+Floor number 2 has:
+Bedroom
+Bedroom
+Bathroom
+There is 6 people: 2 adults, 4 children.
+There is 4 pets:
+1 dogs
+2 cats
+1 fish
+Every member of the house has it's own Bike and Ski
+There is a fridge, microwave, oven and dishwasher in each Kitchen,
+a television, hub and fish tank filter in the Living room,
+blinds in each Bedroom,
+and a toilette and a washing machine in each Bathroom.
+Each room has lights and sensors for lights and dust and heating.
+Every floor has a vacuum and there is a lawnmower in the Garden.
+The House has automatic locks.
+
+------- Day 1 - Monday -------
+
+ 0:00
+Fish tank filter cleaned the fish tank in Living room in floor number 0.
+
+ 6:10
+Vacuum is cleaning in Living room in floor number 0.
+
+ 6:00
+The house was unlocked
+
+ 6:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 7:10
+The house was locked
+
+ 9:20
+Vacuum is cleaning in Bathroom in floor number 1.
+
+10:00
+Vacuum is cleaning in Bedroom in floor number 0.
+
+10:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+11:20
+Vacuum is cleaning in Kitchen in floor number 0.
+
+12:40
+son1 restocked the fridge in Kitchen in floor number 0.
+
+13:00
+Hub is playing music in Living room in floor number 0.
+
+13:50
+Vacuum is cleaning in Living room in floor number 0.
+
+14:20
+Hub is playing music in Living room in floor number 0.
+
+14:30
+Hub is playing music in Living room in floor number 0.
+
+15:20
+Hub is playing music in Living room in floor number 0.
+
+15:30
+Hub is playing music in Living room in floor number 0.
+
+16:30
+Vacuum is cleaning in Bedroom in floor number 1.
+
+16:40
+Hub is playing music in Living room in floor number 0.
+
+16:50
+TV is playing in Living room in floor number 0.
+
+17:10
+TV is playing in Living room in floor number 0.
+
+17:40
+Hub is playing music in Living room in floor number 0.
+
+17:50
+Hub is playing music in Living room in floor number 0.
+
+18:20
+Vacuum is cleaning in Bedroom in floor number 1.
+
+18:00
+Oven was used in Kitchen in floor number 0.
+
+18:10
+Oven was used in Kitchen in floor number 0.
+
+18:20
+Microwave was used in Kitchen in floor number 0.
+
+18:20
+Hub is playing music in Living room in floor number 0.
+
+18:30
+TV is playing in Living room in floor number 0.
+
+19:10
+Vacuum is cleaning in Bedroom in floor number 0.
+
+18:50
+Oven was used in Kitchen in floor number 0.
+
+19:00
+Microwave was used in Kitchen in floor number 0.
+
+19:00
+TV is playing in Living room in floor number 0.
+
+19:10
+TV is playing in Living room in floor number 0.
+
+19:30
+dad fixed the light sensors in Kitchen in floor number 0.
+
+19:40
+TV is playing in Living room in floor number 0.
+
+19:40
+Hub is playing music in Living room in floor number 0.
+
+19:50
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+20:10
+son2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+20:20
+Hub is playing music in Living room in floor number 0.
+
+20:30
+dad fixed the blinds in Bedroom in floor number 1.
+
+20:50
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+20:50
+Hub is playing music in Living room in floor number 0.
+
+20:50
+TV is playing in Living room in floor number 0.
+
+21:50
+Vacuum is cleaning in Bathroom in floor number 1.
+
+21:30
+TV is playing in Living room in floor number 0.
+
+21:40
+Hub is playing music in Living room in floor number 0.
+
+21:40
+son2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+23:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+------- Day 2 - Tuesday -------
+
+ 1:20
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 4:00
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 5:40
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 7:10
+The house was locked
+
+ 7:40
+Vacuum is cleaning in Kitchen in floor number 0.
+
+ 8:10
+Vacuum is cleaning in Living room in floor number 0.
+
+11:40
+Vacuum is cleaning in Bathroom in floor number 0.
+
+11:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+12:30
+Vacuum is cleaning in Bedroom in floor number 0.
+
+13:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+14:20
+Vacuum is cleaning in Bathroom in floor number 1.
+
+14:20
+TV is playing in Living room in floor number 0.
+
+15:00
+Hub is playing music in Living room in floor number 0.
+
+15:10
+TV is playing in Living room in floor number 0.
+
+15:40
+TV is playing in Living room in floor number 0.
+
+16:20
+TV is playing in Living room in floor number 0.
+
+17:10
+Hub is playing music in Living room in floor number 0.
+
+17:10
+TV is playing in Living room in floor number 0.
+
+17:30
+Hub is playing music in Living room in floor number 0.
+
+18:00
+Microwave was used in Kitchen in floor number 0.
+
+18:20
+Oven was used in Kitchen in floor number 0.
+
+18:20
+Microwave was used in Kitchen in floor number 0.
+
+18:50
+Vacuum is cleaning in Bedroom in floor number 0.
+
+18:30
+dad turned on the washing machine in Bathroom in floor number 0.
+
+18:30
+TV is playing in Living room in floor number 0.
+
+18:40
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+18:40
+Microwave was used in Kitchen in floor number 0.
+
+18:40
+Microwave was used in Kitchen in floor number 0.
+
+18:50
+Hub is playing music in Living room in floor number 0.
+
+18:50
+Hub is playing music in Living room in floor number 0.
+
+19:10
+Hub is playing music in Living room in floor number 0.
+
+19:20
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+19:30
+daughter1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+19:40
+daughter1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+20:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+19:50
+daughter1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:50
+Hub is playing music in Living room in floor number 0.
+
+20:00
+Hub is playing music in Living room in floor number 0.
+
+20:10
+TV is playing in Living room in floor number 0.
+
+20:10
+TV is playing in Living room in floor number 0.
+
+20:10
+TV is playing in Living room in floor number 0.
+
+20:30
+Hub is playing music in Living room in floor number 0.
+
+21:00
+TV is playing in Living room in floor number 0.
+
+21:10
+Hub is playing music in Living room in floor number 0.
+
+21:20
+Hub is playing music in Living room in floor number 0.
+
+21:20
+Hub is playing music in Living room in floor number 0.
+
+21:40
+Hub is playing music in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+23:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+------- Day 3 - Wednesday -------
+
+ 0:50
+Vacuum is cleaning in Kitchen in floor number 0.
+
+ 1:10
+Vacuum is cleaning in Living room in floor number 0.
+
+ 4:20
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 5:30
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 7:10
+The house was locked
+
+11:50
+Vacuum is cleaning in Bedroom in floor number 0.
+
+12:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+13:50
+TV is playing in Living room in floor number 0.
+
+13:50
+Hub is playing music in Living room in floor number 0.
+
+15:00
+TV is playing in Living room in floor number 0.
+
+15:00
+son2 restocked the fridge in Kitchen in floor number 0.
+
+15:20
+Hub is playing music in Living room in floor number 0.
+
+15:20
+son2 restocked the fridge in Kitchen in floor number 0.
+
+15:50
+Vacuum is cleaning in Bathroom in floor number 1.
+
+16:10
+Hub is playing music in Living room in floor number 0.
+
+16:30
+Hub is playing music in Living room in floor number 0.
+
+17:10
+Vacuum is cleaning in Kitchen in floor number 0.
+
+17:10
+Hub is playing music in Living room in floor number 0.
+
+17:20
+Hub is playing music in Living room in floor number 0.
+
+17:20
+Hub is playing music in Living room in floor number 0.
+
+17:40
+TV is playing in Living room in floor number 0.
+
+18:10
+Oven was used in Kitchen in floor number 0.
+
+18:20
+Hub is playing music in Living room in floor number 0.
+
+18:20
+Oven was used in Kitchen in floor number 0.
+
+18:30
+Hub is playing music in Living room in floor number 0.
+
+18:30
+Microwave was used in Kitchen in floor number 0.
+
+18:30
+Oven was used in Kitchen in floor number 0.
+
+18:40
+Hub is playing music in Living room in floor number 0.
+
+18:50
+Oven was used in Kitchen in floor number 0.
+
+19:00
+TV is playing in Living room in floor number 0.
+
+19:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+19:30
+TV is playing in Living room in floor number 0.
+
+20:10
+Hub is playing music in Living room in floor number 0.
+
+20:20
+TV is playing in Living room in floor number 0.
+
+20:40
+Hub is playing music in Living room in floor number 0.
+
+21:30
+Hub is playing music in Living room in floor number 0.
+
+21:50
+Hub is playing music in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:50
+Vacuum is cleaning in Bedroom in floor number 0.
+
+23:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+------- Day 4 - Thursday -------
+
+ 0:40
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 2:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 3:40
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 4:50
+Vacuum is cleaning in Living room in floor number 0.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 7:10
+The house was locked
+
+ 9:10
+Vacuum is cleaning in Bathroom in floor number 1.
+
+11:00
+Vacuum is cleaning in Bedroom in floor number 0.
+
+12:00
+Vacuum is cleaning in Bedroom in floor number 1.
+
+14:10
+Vacuum is cleaning in Bathroom in floor number 1.
+
+14:30
+Hub is playing music in Living room in floor number 0.
+
+14:40
+Hub is playing music in Living room in floor number 0.
+
+15:10
+Vacuum is cleaning in Kitchen in floor number 0.
+
+15:40
+Hub is playing music in Living room in floor number 0.
+
+16:00
+Hub is playing music in Living room in floor number 0.
+
+16:50
+Hub is playing music in Living room in floor number 0.
+
+17:10
+dad turned on the washing machine in Bathroom in floor number 0.
+
+17:10
+Hub is playing music in Living room in floor number 0.
+
+17:10
+son1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+17:20
+dad turned on the washing machine in Bathroom in floor number 1.
+
+17:20
+Hub is playing music in Living room in floor number 0.
+
+17:30
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+17:30
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+18:00
+Oven was used in Kitchen in floor number 0.
+
+18:00
+Oven was used in Kitchen in floor number 0.
+
+18:10
+dad fixed the lights in Bedroom in floor number 0.
+
+18:10
+Hub is playing music in Living room in floor number 0.
+
+18:10
+TV is playing in Living room in floor number 0.
+
+18:20
+Microwave was used in Kitchen in floor number 0.
+
+18:20
+Oven was used in Kitchen in floor number 0.
+
+18:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+18:30
+dad fixed the washing machine in Bathroom in floor number 1.
+
+18:30
+mom fixed the dust sensors in Living room in floor number 0.
+
+18:30
+Hub is playing music in Living room in floor number 0.
+
+18:30
+TV is playing in Living room in floor number 0.
+
+18:50
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+19:30
+Vacuum is cleaning in Living room in floor number 0.
+
+19:20
+Microwave was used in Kitchen in floor number 0.
+
+19:20
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:30
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+19:30
+mom turned on the washing machine in Bathroom in floor number 0.
+
+19:40
+mom fixed the vacuum.
+
+19:40
+Hub is playing music in Living room in floor number 0.
+
+19:40
+TV is playing in Living room in floor number 0.
+
+19:40
+Hub is playing music in Living room in floor number 0.
+
+20:10
+dad fixed the toilette in Bathroom in floor number 1.
+
+20:20
+mom fixed the light sensors in Bedroom in floor number 1.
+
+20:30
+dad fixed the dust sensors in Bathroom in floor number 0.
+
+20:50
+dad turned on the washing machine in Bathroom in floor number 0.
+
+20:50
+TV is playing in Living room in floor number 0.
+
+20:50
+TV is playing in Living room in floor number 0.
+
+20:50
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+20:50
+Hub is playing music in Living room in floor number 0.
+
+21:20
+Vacuum is cleaning in Bedroom in floor number 1.
+
+21:00
+dad fixed the fish tank filter in Living room in floor number 0.
+
+21:00
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+21:10
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+21:30
+TV is playing in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+23:50
+Vacuum is cleaning in Bathroom in floor number 1.
+
+------- Day 5 - Friday -------
+
+ 1:40
+Vacuum is cleaning in Kitchen in floor number 0.
+
+ 3:30
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 4:10
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 6:00
+The house was unlocked
+
+ 6:50
+Vacuum is cleaning in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 7:10
+The house was locked
+
+ 8:50
+Vacuum is cleaning in Bathroom in floor number 1.
+
+12:20
+son2 restocked the fridge in Kitchen in floor number 0.
+
+13:00
+Hub is playing music in Living room in floor number 0.
+
+13:40
+Vacuum is cleaning in Bathroom in floor number 0.
+
+14:40
+Hub is playing music in Living room in floor number 0.
+
+15:10
+Hub is playing music in Living room in floor number 0.
+
+16:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+15:50
+Hub is playing music in Living room in floor number 0.
+
+16:20
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+16:20
+TV is playing in Living room in floor number 0.
+
+17:00
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+17:00
+Hub is playing music in Living room in floor number 0.
+
+17:10
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+17:30
+TV is playing in Living room in floor number 0.
+
+18:00
+Vacuum is cleaning in Kitchen in floor number 0.
+
+17:40
+mom turned on the washing machine in Bathroom in floor number 0.
+
+17:50
+dad fixed the light sensors in Bedroom in floor number 1.
+
+17:50
+mom turned on the washing machine in Bathroom in floor number 1.
+
+18:00
+mom fixed the lights in Bathroom in floor number 1.
+
+18:10
+dad fixed the blinds in Bedroom in floor number 0.
+
+18:10
+Microwave was used in Kitchen in floor number 0.
+
+18:20
+TV is playing in Living room in floor number 0.
+
+18:30
+dad fixed the heating in Kitchen in floor number 0.
+
+18:30
+Oven was used in Kitchen in floor number 0.
+
+18:40
+TV is playing in Living room in floor number 0.
+
+18:40
+Microwave was used in Kitchen in floor number 0.
+
+18:50
+dad fixed the dust sensors in Bedroom in floor number 1.
+
+19:20
+Vacuum is cleaning in Living room in floor number 0.
+
+19:20
+Microwave was used in Kitchen in floor number 0.
+
+19:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+19:30
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:40
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:50
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+20:00
+TV is playing in Living room in floor number 0.
+
+20:00
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+20:30
+Vacuum is cleaning in Bathroom in floor number 1.
+
+20:10
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 1.
+
+20:40
+Vacuum is cleaning in Bedroom in floor number 0.
+
+20:30
+Hub is playing music in Living room in floor number 0.
+
+20:40
+Hub is playing music in Living room in floor number 0.
+
+21:00
+Hub is playing music in Living room in floor number 0.
+
+21:00
+Microwave was used in Kitchen in floor number 0.
+
+21:30
+Hub is playing music in Living room in floor number 0.
+
+21:40
+Hub is playing music in Living room in floor number 0.
+
+21:50
+TV is playing in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+------- Day 6 - Saturday -------
+
+ 3:20
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 5:00
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 6:00
+The house was unlocked
+
+ 7:30
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 7:50
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 8:30
+Microwave was used in Kitchen in floor number 0.
+
+ 8:30
+Microwave was used in Kitchen in floor number 0.
+
+ 8:30
+Microwave was used in Kitchen in floor number 0.
+
+ 9:00
+TV is playing in Living room in floor number 0.
+
+ 9:00
+Hub is playing music in Living room in floor number 0.
+
+ 9:10
+Hub is playing music in Living room in floor number 0.
+
+ 9:40
+Vacuum is cleaning in Living room in floor number 0.
+
+10:10
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+10:10
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+10:10
+Hub is playing music in Living room in floor number 0.
+
+10:40
+Vacuum is cleaning in Kitchen in floor number 0.
+
+10:20
+TV is playing in Living room in floor number 0.
+
+10:40
+TV is playing in Living room in floor number 0.
+
+10:50
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+11:20
+Hub is playing music in Living room in floor number 0.
+
+11:30
+dad turned on the washing machine in Bathroom in floor number 0.
+
+11:30
+daughter1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+11:40
+dad fixed the light sensors in Bedroom in floor number 1.
+
+11:40
+daughter1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+11:50
+TV is playing in Living room in floor number 0.
+
+12:00
+dad fixed the light sensors in Bathroom in floor number 1.
+
+12:00
+Microwave was used in Kitchen in floor number 0.
+
+12:40
+Hub is playing music in Living room in floor number 0.
+
+13:30
+Vacuum is cleaning in Bedroom in floor number 1.
+
+13:10
+TV is playing in Living room in floor number 0.
+
+13:50
+dad fixed the lights in Bedroom in floor number 1.
+
+14:10
+dad called a handyman to fix the oven in Kitchen in floor number 0.
+
+14:20
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+14:20
+TV is playing in Living room in floor number 0.
+
+14:20
+Hub is playing music in Living room in floor number 0.
+
+15:00
+dad turned on the washing machine in Bathroom in floor number 0.
+
+15:10
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+15:30
+TV is playing in Living room in floor number 0.
+
+15:30
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+15:40
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+15:50
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+16:00
+Hub is playing music in Living room in floor number 0.
+
+16:40
+Hub is playing music in Living room in floor number 0.
+
+17:10
+Hub is playing music in Living room in floor number 0.
+
+17:10
+Hub is playing music in Living room in floor number 0.
+
+17:20
+TV is playing in Living room in floor number 0.
+
+17:30
+Hub is playing music in Living room in floor number 0.
+
+18:30
+Vacuum is cleaning in Bedroom in floor number 0.
+
+18:20
+Oven was used in Kitchen in floor number 0.
+
+18:20
+Oven was used in Kitchen in floor number 0.
+
+18:30
+dad fixed the washing machine in Bathroom in floor number 0.
+
+18:30
+Microwave was used in Kitchen in floor number 0.
+
+18:40
+Microwave was used in Kitchen in floor number 0.
+
+18:50
+Hub is playing music in Living room in floor number 0.
+
+19:00
+Microwave was used in Kitchen in floor number 0.
+
+19:00
+TV is playing in Living room in floor number 0.
+
+19:10
+dad fixed the heating in Bedroom in floor number 1.
+
+19:10
+Hub is playing music in Living room in floor number 0.
+
+19:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+19:30
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+19:40
+TV is playing in Living room in floor number 0.
+
+20:20
+Vacuum is cleaning in Bathroom in floor number 1.
+
+20:00
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+20:20
+TV is playing in Living room in floor number 0.
+
+20:20
+Hub is playing music in Living room in floor number 0.
+
+20:40
+mom restocked the fridge in Kitchen in floor number 0.
+
+20:50
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+21:00
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+21:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+21:20
+Hub is playing music in Living room in floor number 0.
+
+21:50
+Vacuum is cleaning in Kitchen in floor number 0.
+
+21:30
+Hub is playing music in Living room in floor number 0.
+
+21:30
+Hub is playing music in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+ 0:00
+Vacuum is cleaning in Bathroom in floor number 0.
+
+------- Day 7 - Sunday -------
+
+ 2:50
+Vacuum is cleaning in Living room in floor number 0.
+
+ 6:00
+The house was unlocked
+
+ 6:20
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 8:30
+Oven was used in Kitchen in floor number 0.
+
+ 8:30
+Oven was used in Kitchen in floor number 0.
+
+ 8:30
+Microwave was used in Kitchen in floor number 0.
+
+ 8:30
+Microwave was used in Kitchen in floor number 0.
+
+ 9:00
+TV is playing in Living room in floor number 0.
+
+ 9:00
+Hub is playing music in Living room in floor number 0.
+
+ 9:00
+Hub is playing music in Living room in floor number 0.
+
+ 9:00
+Hub is playing music in Living room in floor number 0.
+
+10:10
+Hub is playing music in Living room in floor number 0.
+
+10:10
+TV is playing in Living room in floor number 0.
+
+10:20
+Hub is playing music in Living room in floor number 0.
+
+10:50
+Vacuum is cleaning in Bathroom in floor number 0.
+
+11:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+11:20
+TV is playing in Living room in floor number 0.
+
+11:40
+Hub is playing music in Living room in floor number 0.
+
+12:30
+Oven was used in Kitchen in floor number 0.
+
+12:40
+Hub is playing music in Living room in floor number 0.
+
+12:50
+Microwave was used in Kitchen in floor number 0.
+
+13:40
+TV is playing in Living room in floor number 0.
+
+13:50
+dad turned on the washing machine in Bathroom in floor number 0.
+
+14:00
+dad fixed the dust sensors in Bedroom in floor number 0.
+
+14:30
+Vacuum is cleaning in Bedroom in floor number 1.
+
+14:40
+Vacuum is cleaning in Living room in floor number 0.
+
+14:20
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+14:50
+son1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+15:00
+dad fixed the dust sensors in Bedroom in floor number 1.
+
+15:00
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+15:20
+dad fixed the light sensors in Living room in floor number 0.
+
+15:50
+Hub is playing music in Living room in floor number 0.
+
+17:30
+Vacuum is cleaning in Kitchen in floor number 0.
+
+17:10
+TV is playing in Living room in floor number 0.
+
+18:10
+Microwave was used in Kitchen in floor number 0.
+
+18:20
+Microwave was used in Kitchen in floor number 0.
+
+18:20
+Oven was used in Kitchen in floor number 0.
+
+18:30
+TV is playing in Living room in floor number 0.
+
+19:40
+Vacuum is cleaning in Bathroom in floor number 1.
+
+19:50
+Vacuum is cleaning in Living room in floor number 0.
+
+19:30
+TV is playing in Living room in floor number 0.
+
+19:40
+TV is playing in Living room in floor number 0.
+
+19:50
+TV is playing in Living room in floor number 0.
+
+21:00
+Vacuum is cleaning in Bedroom in floor number 0.
+
+20:40
+TV is playing in Living room in floor number 0.
+
+20:50
+Hub is playing music in Living room in floor number 0.
+
+21:10
+TV is playing in Living room in floor number 0.
+
+21:20
+Oven was used in Kitchen in floor number 0.
+
+21:30
+Hub is playing music in Living room in floor number 0.
+
+21:50
+Hub is playing music in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+------- Day 8 - Monday -------
+
+ 1:10
+Lawnmower  mowed the garden.
+
+ 0:10
+Fish tank filter cleaned the fish tank in Living room in floor number 0.
+
+ 2:10
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 2:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 2:50
+Vacuum is cleaning in Kitchen in floor number 0.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 7:20
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 7:10
+The house was locked
+
+11:10
+Vacuum is cleaning in Bathroom in floor number 1.
+
+11:40
+Vacuum is cleaning in Living room in floor number 0.
+
+11:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+13:20
+Vacuum is cleaning in Bedroom in floor number 0.
+
+13:00
+Hub is playing music in Living room in floor number 0.
+
+13:50
+Hub is playing music in Living room in floor number 0.
+
+14:10
+TV is playing in Living room in floor number 0.
+
+15:20
+Hub is playing music in Living room in floor number 0.
+
+16:00
+Vacuum is cleaning in Bathroom in floor number 0.
+
+16:10
+Hub is playing music in Living room in floor number 0.
+
+16:30
+TV is playing in Living room in floor number 0.
+
+17:10
+Hub is playing music in Living room in floor number 0.
+
+17:20
+Hub is playing music in Living room in floor number 0.
+
+17:40
+TV is playing in Living room in floor number 0.
+
+17:50
+Hub is playing music in Living room in floor number 0.
+
+18:10
+Microwave was used in Kitchen in floor number 0.
+
+18:10
+Microwave was used in Kitchen in floor number 0.
+
+18:20
+TV is playing in Living room in floor number 0.
+
+18:20
+mom fixed the blinds in Bedroom in floor number 0.
+
+18:30
+Oven was used in Kitchen in floor number 0.
+
+18:40
+mom turned on the washing machine in Bathroom in floor number 0.
+
+18:40
+daughter1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+18:40
+Hub is playing music in Living room in floor number 0.
+
+18:50
+mom fixed the lights in Bedroom in floor number 0.
+
+18:50
+Hub is playing music in Living room in floor number 0.
+
+19:00
+Hub is playing music in Living room in floor number 0.
+
+19:00
+Oven was used in Kitchen in floor number 0.
+
+19:10
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+19:10
+Hub is playing music in Living room in floor number 0.
+
+19:30
+Hub is playing music in Living room in floor number 0.
+
+20:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+19:50
+mom fixed the light sensors in Living room in floor number 0.
+
+19:50
+Hub is playing music in Living room in floor number 0.
+
+20:10
+Hub is playing music in Living room in floor number 0.
+
+20:20
+Hub is playing music in Living room in floor number 0.
+
+20:20
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+20:40
+TV is playing in Living room in floor number 0.
+
+20:40
+Hub is playing music in Living room in floor number 0.
+
+21:00
+TV is playing in Living room in floor number 0.
+
+21:20
+TV is playing in Living room in floor number 0.
+
+21:20
+Hub is playing music in Living room in floor number 0.
+
+21:30
+TV is playing in Living room in floor number 0.
+
+22:10
+Vacuum is cleaning in Kitchen in floor number 0.
+
+21:50
+TV is playing in Living room in floor number 0.
+
+21:50
+Hub is playing music in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:30
+Vacuum is cleaning in Living room in floor number 0.
+
+------- Day 9 - Tuesday -------
+
+ 2:00
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 2:20
+Vacuum is cleaning in Bedroom in floor number 0.
+
+ 4:00
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 4:00
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 4:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 7:10
+The house was locked
+
+ 8:40
+Vacuum is cleaning in Kitchen in floor number 0.
+
+11:20
+Vacuum is cleaning in Bedroom in floor number 1.
+
+11:50
+Vacuum is cleaning in Living room in floor number 0.
+
+12:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+13:20
+Vacuum is cleaning in Bathroom in floor number 0.
+
+13:00
+Hub is playing music in Living room in floor number 0.
+
+13:40
+Vacuum is cleaning in Bathroom in floor number 1.
+
+13:20
+Hub is playing music in Living room in floor number 0.
+
+14:10
+Hub is playing music in Living room in floor number 0.
+
+14:30
+daughter2 restocked the fridge in Kitchen in floor number 0.
+
+14:30
+Hub is playing music in Living room in floor number 0.
+
+16:30
+Hub is playing music in Living room in floor number 0.
+
+17:10
+dad fixed the lights in Bathroom in floor number 0.
+
+17:10
+Hub is playing music in Living room in floor number 0.
+
+17:30
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+18:00
+Vacuum is cleaning in Bathroom in floor number 1.
+
+18:10
+dad fixed the dust sensors in Bedroom in floor number 0.
+
+18:20
+Microwave was used in Kitchen in floor number 0.
+
+18:30
+dad fixed the vacuum.
+
+18:50
+Microwave was used in Kitchen in floor number 0.
+
+19:00
+Hub is playing music in Living room in floor number 0.
+
+19:10
+dad fixed the lights in Kitchen in floor number 0.
+
+19:40
+Microwave was used in Kitchen in floor number 0.
+
+20:50
+Hub is playing music in Living room in floor number 0.
+
+21:20
+Microwave was used in Kitchen in floor number 0.
+
+21:20
+Hub is playing music in Living room in floor number 0.
+
+21:20
+Microwave was used in Kitchen in floor number 0.
+
+21:30
+Hub is playing music in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:20
+Vacuum is cleaning in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+23:30
+Vacuum is cleaning in Kitchen in floor number 0.
+
+------- Day 10 - Wednesday -------
+
+ 0:20
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 1:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 6:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 7:00
+Vacuum is cleaning in Living room in floor number 0.
+
+ 7:10
+The house was locked
+
+ 7:50
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 8:50
+Vacuum is cleaning in Kitchen in floor number 0.
+
+11:50
+Vacuum is cleaning in Bedroom in floor number 0.
+
+12:10
+Vacuum is cleaning in Bathroom in floor number 0.
+
+15:20
+Vacuum is cleaning in Kitchen in floor number 0.
+
+16:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+16:20
+Hub is playing music in Living room in floor number 0.
+
+17:10
+mom fixed the heating in Bathroom in floor number 1.
+
+17:30
+mom turned on the washing machine in Bathroom in floor number 0.
+
+17:30
+son1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+18:00
+Vacuum is cleaning in Bathroom in floor number 1.
+
+17:40
+mom turned on the washing machine in Bathroom in floor number 1.
+
+17:40
+son2 took clean laundry out of the washing machine in Bathroom in floor number 1.
+
+17:50
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+17:50
+Hub is playing music in Living room in floor number 0.
+
+18:00
+Oven was used in Kitchen in floor number 0.
+
+18:00
+Microwave was used in Kitchen in floor number 0.
+
+18:10
+Oven was used in Kitchen in floor number 0.
+
+18:10
+Hub is playing music in Living room in floor number 0.
+
+18:20
+dad called a handyman to fix the dishwasher in Kitchen in floor number 0.
+
+18:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+18:30
+dad fixed the TV in Living room in floor number 0.
+
+18:30
+mom turned on the washing machine in Bathroom in floor number 0.
+
+18:50
+Microwave was used in Kitchen in floor number 0.
+
+19:00
+Hub is playing music in Living room in floor number 0.
+
+19:00
+Oven was used in Kitchen in floor number 0.
+
+19:10
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+19:10
+daughter1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+19:20
+daughter1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:20
+Hub is playing music in Living room in floor number 0.
+
+19:30
+Hub is playing music in Living room in floor number 0.
+
+19:40
+TV is playing in Living room in floor number 0.
+
+19:50
+dad fixed the heating in Bathroom in floor number 0.
+
+20:30
+Vacuum is cleaning in Living room in floor number 0.
+
+20:10
+dad fixed the heating in Kitchen in floor number 0.
+
+20:30
+Hub is playing music in Living room in floor number 0.
+
+20:40
+TV is playing in Living room in floor number 0.
+
+20:50
+Hub is playing music in Living room in floor number 0.
+
+21:00
+TV is playing in Living room in floor number 0.
+
+21:40
+Vacuum is cleaning in Bathroom in floor number 0.
+
+21:20
+Hub is playing music in Living room in floor number 0.
+
+21:50
+dad fixed the dust sensors in Bedroom in floor number 1.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:10
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+22:50
+dad turned on the washing machine in Bathroom in floor number 0.
+
+23:00
+dad fixed the light sensors in Bedroom in floor number 1.
+
+23:20
+dad fixed the lights in Bedroom in floor number 1.
+
+------- Day 11 - Thursday -------
+
+ 0:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 3:00
+Vacuum is cleaning in Kitchen in floor number 0.
+
+ 3:20
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 4:10
+Vacuum is cleaning in Bedroom in floor number 0.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 7:10
+The house was locked
+
+ 7:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+12:30
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+12:40
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+13:10
+Vacuum is cleaning in Bedroom in floor number 0.
+
+12:50
+daughter2 restocked the fridge in Kitchen in floor number 0.
+
+13:30
+Vacuum is cleaning in Bathroom in floor number 0.
+
+14:30
+Vacuum is cleaning in Kitchen in floor number 0.
+
+14:30
+Vacuum is cleaning in Bedroom in floor number 1.
+
+14:30
+TV is playing in Living room in floor number 0.
+
+15:10
+Vacuum is cleaning in Living room in floor number 0.
+
+15:10
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+15:10
+TV is playing in Living room in floor number 0.
+
+16:10
+Vacuum is cleaning in Bathroom in floor number 1.
+
+15:50
+mom fixed the blinds in Bedroom in floor number 0.
+
+16:10
+mom turned on the washing machine in Bathroom in floor number 1.
+
+16:20
+mom fixed the light sensors in Bathroom in floor number 0.
+
+16:40
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+17:10
+dad fixed the heating in Living room in floor number 0.
+
+17:30
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+17:30
+mom fixed the lights in Bathroom in floor number 0.
+
+17:50
+mom fixed the Hub in Living room in floor number 0.
+
+17:50
+Hub is playing music in Living room in floor number 0.
+
+18:00
+Oven was used in Kitchen in floor number 0.
+
+18:10
+dad fixed the heating in Bathroom in floor number 0.
+
+18:10
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+18:10
+TV is playing in Living room in floor number 0.
+
+18:30
+dad turned on the washing machine in Bathroom in floor number 0.
+
+18:40
+dad fixed the vacuum.
+
+18:40
+Microwave was used in Kitchen in floor number 0.
+
+18:50
+mom turned on the washing machine in Bathroom in floor number 1.
+
+18:50
+TV is playing in Living room in floor number 0.
+
+19:00
+mom fixed the light sensors in Bedroom in floor number 1.
+
+19:00
+Oven was used in Kitchen in floor number 0.
+
+19:10
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:20
+Hub is playing music in Living room in floor number 0.
+
+19:20
+son1 took clean laundry out of the washing machine in Bathroom in floor number 1.
+
+19:30
+Microwave was used in Kitchen in floor number 0.
+
+19:30
+Oven was used in Kitchen in floor number 0.
+
+19:30
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:40
+TV is playing in Living room in floor number 0.
+
+19:40
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+19:40
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+19:50
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+20:00
+TV is playing in Living room in floor number 0.
+
+20:10
+son1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+20:20
+son1 took clean laundry out of the washing machine in Bathroom in floor number 1.
+
+20:30
+TV is playing in Living room in floor number 0.
+
+20:30
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+20:50
+TV is playing in Living room in floor number 0.
+
+20:50
+TV is playing in Living room in floor number 0.
+
+21:20
+Hub is playing music in Living room in floor number 0.
+
+21:40
+TV is playing in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+23:10
+Vacuum is cleaning in Bedroom in floor number 0.
+
+23:10
+Vacuum is cleaning in Bathroom in floor number 1.
+
+------- Day 12 - Friday -------
+
+ 3:50
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 5:10
+Vacuum is cleaning in Bathroom in floor number 0.
+
+ 6:00
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Oven was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 6:30
+Microwave was used in Kitchen in floor number 0.
+
+ 7:00
+Vacuum is cleaning in Living room in floor number 0.
+
+ 7:10
+The house was locked
+
+10:50
+Vacuum is cleaning in Bedroom in floor number 0.
+
+11:50
+Vacuum is cleaning in Bathroom in floor number 1.
+
+13:20
+Hub is playing music in Living room in floor number 0.
+
+14:30
+Vacuum is cleaning in Bedroom in floor number 0.
+
+15:00
+Hub is playing music in Living room in floor number 0.
+
+15:10
+TV is playing in Living room in floor number 0.
+
+15:30
+Hub is playing music in Living room in floor number 0.
+
+16:00
+Vacuum is cleaning in Bedroom in floor number 1.
+
+16:30
+Vacuum is cleaning in Bathroom in floor number 0.
+
+16:10
+Hub is playing music in Living room in floor number 0.
+
+16:20
+Hub is playing music in Living room in floor number 0.
+
+16:50
+Vacuum is cleaning in Kitchen in floor number 0.
+
+17:10
+TV is playing in Living room in floor number 0.
+
+17:20
+Hub is playing music in Living room in floor number 0.
+
+17:30
+Hub is playing music in Living room in floor number 0.
+
+18:00
+Oven was used in Kitchen in floor number 0.
+
+18:10
+Hub is playing music in Living room in floor number 0.
+
+18:20
+Microwave was used in Kitchen in floor number 0.
+
+18:30
+TV is playing in Living room in floor number 0.
+
+18:30
+Oven was used in Kitchen in floor number 0.
+
+18:30
+Oven was used in Kitchen in floor number 0.
+
+18:40
+Microwave was used in Kitchen in floor number 0.
+
+18:40
+TV is playing in Living room in floor number 0.
+
+18:50
+TV is playing in Living room in floor number 0.
+
+18:50
+TV is playing in Living room in floor number 0.
+
+19:10
+Hub is playing music in Living room in floor number 0.
+
+19:20
+Hub is playing music in Living room in floor number 0.
+
+19:40
+dad fixed the lights in Bathroom in floor number 0.
+
+20:00
+dad fixed the dust sensors in Bedroom in floor number 1.
+
+20:00
+Hub is playing music in Living room in floor number 0.
+
+20:20
+dad turned on the washing machine in Bathroom in floor number 0.
+
+20:20
+Hub is playing music in Living room in floor number 0.
+
+20:30
+dad fixed the light sensors in Bathroom in floor number 0.
+
+21:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+20:50
+dad fixed the lights in Bedroom in floor number 0.
+
+21:10
+TV is playing in Living room in floor number 0.
+
+21:10
+TV is playing in Living room in floor number 0.
+
+21:10
+son2 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+21:20
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+21:30
+TV is playing in Living room in floor number 0.
+
+21:30
+Hub is playing music in Living room in floor number 0.
+
+21:40
+Hub is playing music in Living room in floor number 0.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+dad fixed the heating in Bathroom in floor number 1.
+
+22:20
+dad fixed the heating in Kitchen in floor number 0.
+
+22:40
+dad fixed the light sensors in Living room in floor number 0.
+
+23:00
+dad fixed the light sensors in Bedroom in floor number 1.
+
+------- Day 13 - Saturday -------
+
+ 0:20
+Vacuum is cleaning in Living room in floor number 0.
+
+ 1:10
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 6:00
+The house was unlocked
+
+ 6:30
+Vacuum is cleaning in Bathroom in floor number 1.
+
+ 7:00
+Vacuum is cleaning in Bedroom in floor number 1.
+
+ 7:20
+Vacuum is cleaning in Kitchen in floor number 0.
+
+ 7:40
+Vacuum is cleaning in Living room in floor number 0.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 0.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 8:30
+Blinds were pulled up in Bedroom in floor number 1.
+
+ 8:30
+Oven was used in Kitchen in floor number 0.
+
+ 8:30
+Oven was used in Kitchen in floor number 0.
+
+ 8:30
+Oven was used in Kitchen in floor number 0.
+
+ 8:30
+Oven was used in Kitchen in floor number 0.
+
+ 9:00
+TV is playing in Living room in floor number 0.
+
+ 9:00
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+ 9:00
+Hub is playing music in Living room in floor number 0.
+
+ 9:00
+TV is playing in Living room in floor number 0.
+
+ 9:00
+Hub is playing music in Living room in floor number 0.
+
+ 9:40
+mom fixed the heating in Bedroom in floor number 0.
+
+10:00
+mom fixed the lawnmower.
+
+10:10
+dad turned on the washing machine in Bathroom in floor number 0.
+
+10:10
+Hub is playing music in Living room in floor number 0.
+
+10:10
+TV is playing in Living room in floor number 0.
+
+10:10
+Hub is playing music in Living room in floor number 0.
+
+10:20
+dad fixed the blinds in Bedroom in floor number 1.
+
+10:40
+dad fixed the light sensors in Bedroom in floor number 1.
+
+10:40
+mom fixed the toilette in Bathroom in floor number 0.
+
+11:10
+Vacuum is cleaning in Bedroom in floor number 1.
+
+11:00
+dad fixed the microwave in Kitchen in floor number 0.
+
+11:00
+mom fixed the washing machine in Bathroom in floor number 1.
+
+11:40
+Vacuum is cleaning in Bedroom in floor number 0.
+
+11:20
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+11:20
+Hub is playing music in Living room in floor number 0.
+
+11:30
+son1 restocked the fridge in Kitchen in floor number 0.
+
+11:40
+dad fixed the dust sensors in Living room in floor number 0.
+
+11:40
+TV is playing in Living room in floor number 0.
+
+11:50
+TV is playing in Living room in floor number 0.
+
+11:50
+son1 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+12:00
+son1 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+12:10
+Microwave was used in Kitchen in floor number 0.
+
+12:30
+Oven was used in Kitchen in floor number 0.
+
+12:40
+Hub is playing music in Living room in floor number 0.
+
+12:50
+Microwave was used in Kitchen in floor number 0.
+
+13:00
+Microwave was used in Kitchen in floor number 0.
+
+13:10
+mom fixed the light sensors in Bathroom in floor number 0.
+
+13:30
+Hub is playing music in Living room in floor number 0.
+
+13:30
+mom fixed the dust sensors in Bedroom in floor number 1.
+
+13:50
+mom fixed the light sensors in Kitchen in floor number 0.
+
+14:30
+Vacuum is cleaning in Living room in floor number 0.
+
+14:10
+mom fixed the heating in Bathroom in floor number 0.
+
+14:30
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+14:40
+dad turned on the washing machine in Bathroom in floor number 0.
+
+14:50
+dad turned on the washing machine in Bathroom in floor number 1.
+
+15:20
+Vacuum is cleaning in Bedroom in floor number 1.
+
+15:00
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+15:00
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+15:10
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 0.
+
+15:20
+TV is playing in Living room in floor number 0.
+
+15:20
+daughter2 took clean laundry out of the washing machine in Bathroom in floor number 1.
+
+15:50
+Vacuum is cleaning in Bathroom in floor number 0.
+
+15:30
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+15:40
+dad fixed the lights in Kitchen in floor number 0.
+
+16:20
+Hub is playing music in Living room in floor number 0.
+
+17:40
+The house was locked
+
+18:40
+Oven was used in Kitchen in floor number 0.
+
+18:40
+Oven was used in Kitchen in floor number 0.
+
+18:50
+Hub is playing music in Living room in floor number 0.
+
+19:20
+Oven was used in Kitchen in floor number 0.
+
+20:00
+dad fixed the blinds in Bedroom in floor number 0.
+
+20:20
+dad fixed the heating in Kitchen in floor number 0.
+
+20:40
+dad turned on the dishwasher in Kitchen in floor number 0.
+
+21:00
+Microwave was used in Kitchen in floor number 0.
+
+21:10
+daughter2 took clean dishes out of the dishwasher in Kitchen in floor number 0.
+
+21:40
+Vacuum is cleaning in Bedroom in floor number 1.
+
+21:20
+dad fixed the lights in Bedroom in floor number 1.
+
+21:30
+TV is playing in Living room in floor number 0.
+
+21:40
+dad turned on the washing machine in Bathroom in floor number 0.
+
+21:40
+Oven was used in Kitchen in floor number 0.
+
+21:50
+mom fixed the heating in Bathroom in floor number 1.
+
+22:00
+The house was locked
+
+22:00
+Blinds were pulled down in Bedroom in floor number 0.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:00
+Blinds were pulled down in Bedroom in floor number 1.
+
+22:10
+mom fixed the Hub in Living room in floor number 0.
+
+22:40
+Vacuum is cleaning in Bathroom in floor number 1.
+
+22:30
+mom turned on the dishwasher in Kitchen in floor number 0.
+
+----CONSUMPTION REPORT----
+Locks used 1.0033333 kWh, thus costing 13.354366$.
+Vacuum used 34.0 kWh, thus costing 452.54$.
+Dust sensors used 0.063 kWh, thus costing 0.83853$.
+Lights sensors used 0.072 kWh, thus costing 0.95831996$.
+Lights used 4.74525 kWh, thus costing 63.15928$.
+Heating used 310.64 kWh, thus costing 4134.6187$.
+Fish tank filter used 0.038 kWh, thus costing 0.50578$.
+Television used 26.88 kWh, thus costing 357.7728$.
+Hub used 15.3 kWh, thus costing 203.643$.
+Dust sensors used 0.063 kWh, thus costing 0.83853$.
+Lights sensors used 0.069 kWh, thus costing 0.91839$.
+Lights used 1.58175 kWh, thus costing 21.053093$.
+Heating used 117.92 kWh, thus costing 1569.5151$.
+Dishwasher used 108.0 kWh and 660.0 liters of water, thus costing 1438.47$.
+Fridge used 38.025 kWh, thus costing 506.11276$.
+Microwave used 12.84 kWh, thus costing 170.9004$.
+Oven used 179.85 kWh, thus costing 2393.8035$.
+Dust sensors used 0.063 kWh, thus costing 0.83853$.
+Lights sensors used 0.063 kWh, thus costing 0.83853$.
+Lights used 2.07459 kWh, thus costing 27.612793$.
+Heating used 168.3 kWh, thus costing 2240.073$.
+Blinds used 0.012083333 kWh, thus costing 0.16082916$.
+Dust sensors used 0.063 kWh, thus costing 0.83853$.
+Lights sensors used 0.069 kWh, thus costing 0.91839$.
+Lights used 0.8658 kWh, thus costing 11.523798$.
+Heating used 60.28 kWh, thus costing 802.3268$.
+Toilette used 0.0903 kWh and 860.0 liters of water, thus costing 2.491893$.
+Washing machine used 23.1 kWh and 2376.0 liters of water, thus costing 311.025$.
+Vacuum used 32.75 kWh, thus costing 435.9025$.
+Dust sensors used 0.063 kWh, thus costing 0.83853$.
+Lights sensors used 0.063 kWh, thus costing 0.83853$.
+Lights used 2.27106 kWh, thus costing 30.227808$.
+Heating used 159.28 kWh, thus costing 2120.0168$.
+Blinds used 0.012083333 kWh, thus costing 0.16082916$.
+Dust sensors used 0.063 kWh, thus costing 0.83853$.
+Lights sensors used 0.063 kWh, thus costing 0.83853$.
+Lights used 2.31768 kWh, thus costing 30.84832$.
+Heating used 165.22 kWh, thus costing 2199.0781$.
+Blinds used 0.012083333 kWh, thus costing 0.16082916$.
+Dust sensors used 0.063 kWh, thus costing 0.83853$.
+Lights sensors used 0.063 kWh, thus costing 0.83853$.
+Lights used 0.22644 kWh, thus costing 3.0139163$.
+Heating used 15.4 kWh, thus costing 204.974$.
+Toilette used 0.03696 kWh and 352.0 liters of water, thus costing 1.0199376$.
+Washing machine used 7.0 kWh and 720.0 liters of water, thus costing 94.25$.
+Lawnmower used 0.6 kWh, thus costing 7.9860005$.
+
+----ACTIVITY AND USAGE REPORT----
+TV was used: 
+by daughter1 18x
+by daughter2 19x
+by son2 9x
+by dad 18x
+by mom 16x
+by son1 16x
+Hub was used: 
+by daughter1 29x
+by daughter2 36x
+by son2 27x
+by dad 18x
+by mom 15x
+by son1 28x
+Dishwasher was used: 
+by dad 20x
+by mom 13x
+Microwave was used: 
+by daughter1 9x
+by daughter2 10x
+by son2 9x
+by dad 17x
+by mom 12x
+by son1 8x
+Oven was used: 
+by daughter1 17x
+by daughter2 10x
+by son2 8x
+by dad 11x
+by mom 11x
+by son1 13x
+Toilette was used: 
+by daughter1 21x
+by daughter2 16x
+by son2 20x
+by dad 34x
+by mom 37x
+by son1 20x
+Washing machine was used: 
+by dad 12x
+by mom 5x
+Toilette was used: 
+by daughter1 19x
+by daughter2 12x
+by son2 14x
+by dad 2x
+by son1 20x
+Washing machine was used: 
+by dad 2x
+by mom 4x
+
