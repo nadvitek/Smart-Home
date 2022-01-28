@@ -11,7 +11,7 @@ import java.util.Random;
  * Class for API of the house.
  */
 public class HouseAPI {
-    private final int numberOfDays = 13;
+    private final int numberOfDays = 7;
     private final House myHouse;
 
     /**

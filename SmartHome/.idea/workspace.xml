@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a735aa3-8683-4d83-8442-469403587ab9" name="Changes" comment="Bugs fixed" />
+    <list default="true" id="2a735aa3-8683-4d83-8442-469403587ab9" name="Changes" comment="Bugs fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/cvut/k36/omo/hw/smarthome/HouseAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/cvut/k36/omo/hw/smarthome/HouseAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/output/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/output/output.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +88,7 @@
       <workItem from="1641652141034" duration="54000" />
       <workItem from="1641836866912" duration="2648000" />
       <workItem from="1641935782485" duration="605000" />
+      <workItem from="1643387691302" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="Javadocs">
       <created>1641330831668</created>
