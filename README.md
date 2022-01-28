@@ -43,3 +43,8 @@ Solving events means that they repair something or clean or they must do somethi
 <li>Factory Method - EventCreator, ReportCreator</li>
 <li>Observer - the pool or every room will be creating Events if they will be dirty enough to tell some people to clean them</li>
 </ul>
+<h2>Output of the application</h2><p>
+You will find the output file of the application in src/main/output directory.<p>
+It is a .txt file that contains configuration of the house and all event reports that had been solved.<p>
+Then there is how much energy did the appliances consume and how much money did it cost.<p>
+And the last information we will get is who used which appliances how many times.<p>
