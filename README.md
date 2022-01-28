@@ -1,14 +1,15 @@
 # Smart Home
-<h1>Summary</h1><p>
-This application represent a virtual house that is controlled by smart applications.<p>
-People live in the house their normal live and they use the applications or do some actions that applications have to take care of.<p>
-<p>
-There are 2 configurations that can be found in src/main/configs that creates our house as its written<p>
+<h1>Summary</h1>
+This application represents a virtual house that is controlled by smart appliances.<p>
+People and pets live in the house their normal live and they use the appliances or do some actions that appliances have to take care of.<p>
+<h2>Configurations</h2>
+There are 2 configurations that can be found in src/main/configs that creates our house as its written.<p>
+
 Due to this configurations we create people, pets, rooms and appliances that are or live in the house.<p>
-There are four types of people that can be found in the house - Child, Mom, Dad and Grandparents <p>
+There are four types of people that can be found in the house - Children, Mom, Dad and Grandparents<p>
 Children and their parents go to school/work everyday from Monday to Friday and Grandparents stay at home<p>
 The life in the house starts on Monday as the day 1, we can change number of days for our application as we want (default one week)<p>
-As the people live in the house, they use appliances in the house<p>
+As the people and pets live in the house, they use appliances in the house<p>
 <b>Examples for appliances</b><p>
 <ul>
 <li>When people enter a room, light sensors will active lights, when last person leaves they turn lights off</li>
@@ -27,18 +28,18 @@ Some freetime activities for people
 <ul>
 <li>Riding a bike</li>
 <li>Go skiing</li>
-<li>Watch TV</li>
+<li>Watching TV</li>
 <li>Go to the gym</li>
 <li>Watching the TV</li>
 <li>Listening to music</li>
 <li>Solving events(Coming soon)</li>
 </ul>
 Solving events means that they repair something or clean or they must do something with appliances<p>
-<b>Used Design Pattern</b>
+<b>Used Design Patterns</b>
 <ul>
-<li>Singleton - the house is the only one(one instance of the class)</li>
+<li>Singleton - the house is the only one (one instance of the class)</li>
 <li>Iterator - when a person solves some Events, he gets EventIterator from list of waiting events that are made for him(children do something and adults something else)</li>
 <li>Lazy Initialization - In the house, everyone has Bike and Ski, but there is little chance, that everyone will use it. So we create it only if the time for its use comes</li>
-<li>Factory Method - EventCreator(More coming soon)</li>
+<li>Factory Method - EventCreator, ReportCreator</li>
 <li>Observer - the pool or every room will be creating Events if they will be dirty enough to tell some people to clean them</li>
 </ul>
