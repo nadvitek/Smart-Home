@@ -32,7 +32,7 @@ Some freetime activities for people
 <li>Go to the gym</li>
 <li>Watching the TV</li>
 <li>Listening to music</li>
-<li>Solving events(Coming soon)</li>
+<li>Solving events</li>
 </ul>
 Solving events means that they repair something or clean or they must do something with appliances<p>
 <h2>Used Design Patterns</h2><p>
