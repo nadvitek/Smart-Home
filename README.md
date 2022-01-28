@@ -10,7 +10,7 @@ There are four types of people that can be found in the house - Children, Mom, D
 Children and their parents go to school/work everyday from Monday to Friday and Grandparents stay at home<p>
 The life in the house starts on Monday as the day 1, we can change number of days for our application as we want (default one week)<p>
 As the people and pets live in the house, they use appliances in the house<p>
-<b>Examples for appliances</b><p>
+<h2>Examples for appliances</h2><p>
 <ul>
 <li>When people enter a room, light sensors will active lights, when last person leaves they turn lights off</li>
 <li>When they leave the house and it's empty, house automaticly locks itself</li>
@@ -22,9 +22,9 @@ As the people and pets live in the house, they use appliances in the house<p>
 <li>When the day ends, they put some clothes in the wasching machine, when it's full, it sends signal to be turned on and adults will start it</li>
 <li>In kitchen people use appliances like fridge, microwave or oven to prepare the meal, they fill dishwasher when they are done, which like washing machine sends signal when it's full</li>
 </ul>
-<b>
+<h2>
 Some freetime activities for people
-</b>
+</h2><p>
 <ul>
 <li>Riding a bike</li>
 <li>Go skiing</li>
@@ -35,7 +35,7 @@ Some freetime activities for people
 <li>Solving events(Coming soon)</li>
 </ul>
 Solving events means that they repair something or clean or they must do something with appliances<p>
-<b>Used Design Patterns</b>
+<h2>Used Design Patterns</h2><p>
 <ul>
 <li>Singleton - the house is the only one (one instance of the class)</li>
 <li>Iterator - when a person solves some Events, he gets EventIterator from list of waiting events that are made for him(children do something and adults something else)</li>
